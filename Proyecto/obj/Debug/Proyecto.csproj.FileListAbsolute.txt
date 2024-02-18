@@ -1,0 +1,100 @@
+C:\Users\jesus\source\repos\Proyecto\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\jesus\source\repos\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\jesus\source\repos\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\jesus\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.AssemblyReference.cache
+C:\Users\jesus\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.SuggestedBindingRedirects.cache
+C:\Users\jesus\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+C:\Users\jesus\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.cache
+C:\Users\jesus\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\jesus\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\jesus\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\jesus\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.FormLogin.resources
+C:\Users\jesus\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.Ke_Fruta.resources
+C:\Users\USUARIO\Desktop\Proyecto\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\USUARIO\Desktop\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\USUARIO\Desktop\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\USUARIO\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.SuggestedBindingRedirects.cache
+C:\Users\USUARIO\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.Ke_Fruta.resources
+C:\Users\USUARIO\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.FormLogin.resources
+C:\Users\USUARIO\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+C:\Users\USUARIO\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.cache
+C:\Users\USUARIO\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\USUARIO\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\USUARIO\Desktop\-\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\-\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.SuggestedBindingRedirects.cache
+C:\Users\USUARIO\Desktop\-\Proyecto\Proyecto\obj\Debug\Proyecto.Frm_Funciones.resources
+C:\Users\USUARIO\Desktop\-\Proyecto\Proyecto\obj\Debug\Proyecto.Ke_Fruta.resources
+C:\Users\USUARIO\Desktop\-\Proyecto\Proyecto\obj\Debug\Proyecto.FormLogin.resources
+C:\Users\USUARIO\Desktop\-\Proyecto\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+C:\Users\USUARIO\Desktop\-\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.cache
+C:\Users\USUARIO\Desktop\-\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\-\Proyecto\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\USUARIO\Desktop\-\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\USUARIO\Desktop\-\Proyecto\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\USUARIO\Desktop\-\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\USUARIO\Desktop\-\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\USUARIO\Desktop\-\Proyecto\Proyecto\obj\Debug\Proyecto.FormCompras.resources
+C:\Users\USUARIO\Desktop\-\Proyecto\Proyecto\obj\Debug\Proyecto.FormGestion.resources
+C:\Users\USUARIO\Desktop\Proyecto Programacion 3ID Primera Entrega\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\USUARIO\Desktop\Proyecto Programacion 3ID Primera Entrega\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\USUARIO\Desktop\Proyecto Programacion 3ID Primera Entrega\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\USUARIO\Desktop\Proyecto Programacion 3ID Primera Entrega\Proyecto\obj\Debug\Proyecto.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\Proyecto Programacion 3ID Primera Entrega\Proyecto\obj\Debug\Proyecto.csproj.SuggestedBindingRedirects.cache
+C:\Users\USUARIO\Desktop\Proyecto Programacion 3ID Primera Entrega\Proyecto\obj\Debug\Proyecto.FormCompras.resources
+C:\Users\USUARIO\Desktop\Proyecto Programacion 3ID Primera Entrega\Proyecto\obj\Debug\Proyecto.FormGestion.resources
+C:\Users\USUARIO\Desktop\Proyecto Programacion 3ID Primera Entrega\Proyecto\obj\Debug\Proyecto.Frm_Funciones.resources
+C:\Users\USUARIO\Desktop\Proyecto Programacion 3ID Primera Entrega\Proyecto\obj\Debug\Proyecto.Ke_Fruta.resources
+C:\Users\USUARIO\Desktop\Proyecto Programacion 3ID Primera Entrega\Proyecto\obj\Debug\Proyecto.FormLogin.resources
+C:\Users\USUARIO\Desktop\Proyecto Programacion 3ID Primera Entrega\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+C:\Users\USUARIO\Desktop\Proyecto Programacion 3ID Primera Entrega\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.cache
+C:\Users\USUARIO\Desktop\Proyecto Programacion 3ID Primera Entrega\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\Proyecto Programacion 3ID Primera Entrega\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\USUARIO\Desktop\Proyecto Programacion 3ID Primera Entrega\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\USUARIO\Desktop\Proyecto Programacion 3ID Primera Entrega\Proyecto\bin\Debug\MySql.Data.dll
+C:\Users\USUARIO\Desktop\Proyecto Programacion 3ID Primera Entrega\Proyecto\bin\Debug\Google.Protobuf.dll
+C:\Users\USUARIO\Desktop\Proyecto Programacion 3ID Primera Entrega\Proyecto\bin\Debug\ZstdNet.dll
+C:\Users\USUARIO\Desktop\Proyecto Programacion 3ID Primera Entrega\Proyecto\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\USUARIO\Desktop\Proyecto Programacion 3ID Primera Entrega\Proyecto\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\USUARIO\Desktop\Proyecto Programacion 3ID Primera Entrega\Proyecto\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\USUARIO\Desktop\Proyecto Programacion 3ID Primera Entrega\Proyecto\bin\Debug\System.Memory.dll
+C:\Users\USUARIO\Desktop\Proyecto Programacion 3ID Primera Entrega\Proyecto\bin\Debug\System.Buffers.dll
+C:\Users\USUARIO\Desktop\Proyecto Programacion 3ID Primera Entrega\Proyecto\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\USUARIO\Desktop\Proyecto Programacion 3ID Primera Entrega\Proyecto\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\USUARIO\Desktop\Proyecto Programacion 3ID Primera Entrega\Proyecto\bin\Debug\MySql.Data.xml
+C:\Users\USUARIO\Desktop\Proyecto Programacion 3ID Primera Entrega\Proyecto\obj\Debug\Proyecto.exe.config
+C:\Users\USUARIO\Desktop\Proyecto Programacion 3ID Primera Entrega\Proyecto\obj\Debug\Proyecto.csproj.CopyComplete
+C:\Users\USUARIO\Desktop\Proyecto Programacion 3ID Primera Entrega\Proyecto\obj\Debug\Proyecto.FormGestionDatos.resources
+C:\Users\USUARIO\Desktop\Proyecto Programacion 3ID Primera Entrega\Proyecto\obj\Debug\Proyecto.FormComprasProd.resources
+D:\Proyecto\Proyecto Programacion 3ID Primera Entrega-1\Proyecto Programacion 3ID Primera Entrega\Proyecto\bin\Debug\Proyecto.exe.config
+D:\Proyecto\Proyecto Programacion 3ID Primera Entrega-1\Proyecto Programacion 3ID Primera Entrega\Proyecto\bin\Debug\Proyecto.exe
+D:\Proyecto\Proyecto Programacion 3ID Primera Entrega-1\Proyecto Programacion 3ID Primera Entrega\Proyecto\bin\Debug\Proyecto.pdb
+D:\Proyecto\Proyecto Programacion 3ID Primera Entrega-1\Proyecto Programacion 3ID Primera Entrega\Proyecto\bin\Debug\Google.Protobuf.dll
+D:\Proyecto\Proyecto Programacion 3ID Primera Entrega-1\Proyecto Programacion 3ID Primera Entrega\Proyecto\bin\Debug\ZstdNet.dll
+D:\Proyecto\Proyecto Programacion 3ID Primera Entrega-1\Proyecto Programacion 3ID Primera Entrega\Proyecto\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Proyecto\Proyecto Programacion 3ID Primera Entrega-1\Proyecto Programacion 3ID Primera Entrega\Proyecto\bin\Debug\BouncyCastle.Crypto.dll
+D:\Proyecto\Proyecto Programacion 3ID Primera Entrega-1\Proyecto Programacion 3ID Primera Entrega\Proyecto\bin\Debug\Ubiety.Dns.Core.dll
+D:\Proyecto\Proyecto Programacion 3ID Primera Entrega-1\Proyecto Programacion 3ID Primera Entrega\Proyecto\bin\Debug\System.Memory.dll
+D:\Proyecto\Proyecto Programacion 3ID Primera Entrega-1\Proyecto Programacion 3ID Primera Entrega\Proyecto\bin\Debug\System.Buffers.dll
+D:\Proyecto\Proyecto Programacion 3ID Primera Entrega-1\Proyecto Programacion 3ID Primera Entrega\Proyecto\bin\Debug\K4os.Compression.LZ4.dll
+D:\Proyecto\Proyecto Programacion 3ID Primera Entrega-1\Proyecto Programacion 3ID Primera Entrega\Proyecto\bin\Debug\K4os.Hash.xxHash.dll
+D:\Proyecto\Proyecto Programacion 3ID Primera Entrega-1\Proyecto Programacion 3ID Primera Entrega\Proyecto\bin\Debug\MySql.Data.xml
+D:\Proyecto\Proyecto Programacion 3ID Primera Entrega-1\Proyecto Programacion 3ID Primera Entrega\Proyecto\obj\Debug\Proyecto.csproj.AssemblyReference.cache
+D:\Proyecto\Proyecto Programacion 3ID Primera Entrega-1\Proyecto Programacion 3ID Primera Entrega\Proyecto\obj\Debug\Proyecto.csproj.SuggestedBindingRedirects.cache
+D:\Proyecto\Proyecto Programacion 3ID Primera Entrega-1\Proyecto Programacion 3ID Primera Entrega\Proyecto\obj\Debug\Proyecto.exe.config
+D:\Proyecto\Proyecto Programacion 3ID Primera Entrega-1\Proyecto Programacion 3ID Primera Entrega\Proyecto\obj\Debug\Proyecto.FormComprasProd.resources
+D:\Proyecto\Proyecto Programacion 3ID Primera Entrega-1\Proyecto Programacion 3ID Primera Entrega\Proyecto\obj\Debug\Proyecto.FormCompras.resources
+D:\Proyecto\Proyecto Programacion 3ID Primera Entrega-1\Proyecto Programacion 3ID Primera Entrega\Proyecto\obj\Debug\Proyecto.FormGestionDatos.resources
+D:\Proyecto\Proyecto Programacion 3ID Primera Entrega-1\Proyecto Programacion 3ID Primera Entrega\Proyecto\obj\Debug\Proyecto.FormGestion.resources
+D:\Proyecto\Proyecto Programacion 3ID Primera Entrega-1\Proyecto Programacion 3ID Primera Entrega\Proyecto\obj\Debug\Proyecto.Frm_Funciones.resources
+D:\Proyecto\Proyecto Programacion 3ID Primera Entrega-1\Proyecto Programacion 3ID Primera Entrega\Proyecto\obj\Debug\Proyecto.Ke_Fruta.resources
+D:\Proyecto\Proyecto Programacion 3ID Primera Entrega-1\Proyecto Programacion 3ID Primera Entrega\Proyecto\obj\Debug\Proyecto.FormLogin.resources
+D:\Proyecto\Proyecto Programacion 3ID Primera Entrega-1\Proyecto Programacion 3ID Primera Entrega\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+D:\Proyecto\Proyecto Programacion 3ID Primera Entrega-1\Proyecto Programacion 3ID Primera Entrega\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.cache
+D:\Proyecto\Proyecto Programacion 3ID Primera Entrega-1\Proyecto Programacion 3ID Primera Entrega\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+D:\Proyecto\Proyecto Programacion 3ID Primera Entrega-1\Proyecto Programacion 3ID Primera Entrega\Proyecto\obj\Debug\Proyecto.csproj.CopyComplete
+D:\Proyecto\Proyecto Programacion 3ID Primera Entrega-1\Proyecto Programacion 3ID Primera Entrega\Proyecto\obj\Debug\Proyecto.exe
+D:\Proyecto\Proyecto Programacion 3ID Primera Entrega-1\Proyecto Programacion 3ID Primera Entrega\Proyecto\obj\Debug\Proyecto.pdb
+D:\Proyecto\Proyecto Programacion 3ID Primera Entrega-1\Proyecto Programacion 3ID Primera Entrega\Proyecto\obj\Debug\Proyecto.FormCosecha.resources
+D:\Proyecto\Proyecto Programacion 3ID Primera Entrega-1\Proyecto Programacion 3ID Primera Entrega\Proyecto\obj\Debug\Proyecto.FormPredios.resources
