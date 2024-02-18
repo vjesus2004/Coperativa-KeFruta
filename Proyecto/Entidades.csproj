@@ -1,0 +1,471 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{92E83DB0-5353-408F-A450-27C8CCF9BA12}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Proyecto</RootNamespace>
+    <AssemblyName>Proyecto</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>C:\Users\USUARIO\Desktop\B\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ProductName>CoFruit</ProductName>
+    <PublisherName>DevNow S.R.L</PublisherName>
+    <ApplicationRevision>3</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <CreateDesktopShortcut>true</CreateDesktopShortcut>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>87F387663CA884DC9DF152D4342CA433FE362B7F</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>Entidades_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>LogoCoFruit %281%29.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MySql.Data, Version=8.0.30.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Forms\Frm_Cosecha.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Frm_Cosecha.Designer.cs">
+      <DependentUpon>Frm_Cosecha.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Frm_DatosProd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Frm_DatosProd.designer.cs">
+      <DependentUpon>Frm_DatosProd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Frm_Fechas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Frm_Fechas.Designer.cs">
+      <DependentUpon>Frm_Fechas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Frm_FuncionesSector.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Frm_FuncionesSector.Designer.cs">
+      <DependentUpon>Frm_FuncionesSector.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Frm_Fert.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Frm_Fert.Designer.cs">
+      <DependentUpon>Frm_Fert.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Frm_Ventas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Frm_Ventas.Designer.cs">
+      <DependentUpon>Frm_Ventas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Frm_Predios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Frm_Predios.Designer.cs">
+      <DependentUpon>Frm_Predios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Frm_Compras.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Frm_Compras.designer.cs">
+      <DependentUpon>Frm_Compras.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Frm_Gestion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Frm_Gestion.Designer.cs">
+      <DependentUpon>Frm_Gestion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Frm_FuncionesProductos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Frm_FuncionesProductos.Designer.cs">
+      <DependentUpon>Frm_FuncionesProductos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Frm_Funciones.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Frm_Funciones.Designer.cs">
+      <DependentUpon>Frm_Funciones.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Frm_Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Frm_Main.Designer.cs">
+      <DependentUpon>Frm_Main.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Frm_Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Frm_Login.Designer.cs">
+      <DependentUpon>Frm_Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Forms\Frm_Compras.resx">
+      <DependentUpon>Frm_Compras.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Frm_Cosecha.resx">
+      <DependentUpon>Frm_Cosecha.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Frm_DatosProd.resx">
+      <DependentUpon>Frm_DatosProd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Frm_Fechas.resx">
+      <DependentUpon>Frm_Fechas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Frm_FuncionesSector.resx">
+      <DependentUpon>Frm_FuncionesSector.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Frm_Fert.resx">
+      <DependentUpon>Frm_Fert.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Frm_Ventas.resx">
+      <DependentUpon>Frm_Ventas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Frm_Predios.resx">
+      <DependentUpon>Frm_Predios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Frm_Gestion.resx">
+      <DependentUpon>Frm_Gestion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Frm_FuncionesProductos.resx">
+      <DependentUpon>Frm_FuncionesProductos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Frm_Funciones.resx">
+      <DependentUpon>Frm_Funciones.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Frm_Main.resx">
+      <DependentUpon>Frm_Main.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Frm_Login.resx">
+      <DependentUpon>Frm_Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Entidades_TemporaryKey.pfx" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cerrar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\maxi.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\res.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\minimazar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Devnow Logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DevNow Banner.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kEfRUTA.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cerrar1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\reportes.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\venta.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\clientes.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\unknown.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\producto.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\close_cross_delete_remove_icon_134659.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\login-arrow-symbol-entering-back-into-a-square_icon-icons.com_73221.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cross_114275.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\close_cross_delete_remove_icon_1346591.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\seo-social-web-network-internet_340_icon-icons.com_61497.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\passion_fruit_fruit_food_icon_218347.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Add_User_icon-icons.com_55971.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\que-es-la-semola-de-trigo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\descarga %282%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\descarga %281%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\descarga.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\5ef9ffab250000a502c28ec2.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Captura-de-pantalla-2019-03-26-a-las-12.42.46.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1603306973-36-img-9736-jpg.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\thumb-1920-530612.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LogoCoFruit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\40622hd.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\photo-1530878902700-5ad4f9e4c318.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\b4a14473318479172d3ed28a7947c472.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\94410.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Negocios\Negocios.csproj">
+      <Project>{70402823-24d1-4eb2-bb19-9d9598c6e473}</Project>
+      <Name>Negocios</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-cancel-48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-checkmark-48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-close-48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-contacts-48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-done-48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-download-from-the-cloud-48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-folder-48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-home-48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-maximize-window-48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-ok-48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-opened-folder-48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-plus-48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-resize-48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-restart-48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-save-48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-scroll-48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-search-48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-services-48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-subtract-48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-support-48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-update-48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-where-48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-logout-rounded-left-48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-user-48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-healthy-food-48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-flax-seeds-48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-users-settings-48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-buy-48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-calendar-48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-checkout-48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-left-arrow-48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\41.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fondo1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-closed-eye-48 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-eye-48 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.7.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.7.2 %28x86 y x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\disagro-ppc_kasumin-2-sl_5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fosfato_di_amonico.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\plantines-huerta.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="LogoCoFruit %281%29.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
